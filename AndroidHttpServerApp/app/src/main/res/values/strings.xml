@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HTTP Server</string>
+
+    <string name="start_server">Start Server</string>
+    <string name="stop_server">Stop Server</string>
+    <string name="server_port">Port: </string>
+</resources>
